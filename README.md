@@ -1,4 +1,4 @@
-# DiceGame---Javascript
+# DiceGame - Javascript
 
 
 # 💎 Resultado final:
